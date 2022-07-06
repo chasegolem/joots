@@ -1,2 +1,2 @@
-# joots
-4-H Website Design Project - 2022
+# Joots, because why not.
+### <i>This isn't a real product, or at least I don't think it is. It's just a subject for my project.</i>
