@@ -1,0 +1,107 @@
+/*  Colours:
+    Light Blue:     #3DEDFF
+    Pink:           #FF4AAF
+    Main Green:     #31FFA0
+    Orange:         #FF7917
+    Vibrant Green:  #2DFF24
+*/
+
+@import url("https://use.typekit.net/thm0biu.css");
+
+body {
+    font-family: graphie,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.title {
+    font-family: mundial, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #31FFA0;
+    font-size: 30px
+}
+
+.font-secondary {
+    font-family: droid-sans-mono,monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.text-lightblue {
+    color: #3DEDFF
+}
+
+.text-pink {
+    color: #FF3AAF
+}
+
+.text-main {
+    color: #31FFA0
+}
+
+.text-orange {
+    color: #FF7917
+}
+
+.text-vibrantgreen {
+    color: #2DFF24
+}
+
+.nav-item {
+    color: white
+}
+
+.nav-item:hover {
+    color: #2DFF24
+}
+
+.active {
+    color: #FF7917 !important
+}
+
+.tag {
+    background-color: #3DEDFF;
+    color: white;
+    padding: 5px;
+    font-size: 15px;
+    border: 1px solid transparent;
+    border-radius: 20%;
+}
+
+.stripe {
+    height: 100px;
+    width: 5px;
+    background-color: #FF7917;
+    position: absolute;
+    margin-left: 30px;
+    rotate: 25deg;
+    margin-top: -10px;
+    display: block;
+    z-index: 0;
+    overflow: hidden !important;
+}
+
+.box {
+    width: 99%;
+    padding: 15px 15px 0 15px;
+    border: 1px solid lightgray;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 15px 15px 5px lightgray;
+    margin-bottom: 30px;
+    overflow: hidden !important;
+}
+
+a {
+    text-decoration: none;
+    color: inherit
+}
+
+a:hover {
+    color: #31FFA0
+}
+
+p {
+    font-size: 20px
+}
